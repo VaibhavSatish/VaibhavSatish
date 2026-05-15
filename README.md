@@ -25,17 +25,14 @@ I am a Computer Science student at UC Irvine specializing in **Intelligent Syste
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Vaibhav's GitHub Stats" height="180px" />
-  <img src="https://github-readme-top-langs.vercel.aggregate.connected.black/api?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satishvaibhav&show_icons=true&theme=tokyonight&count_private=true" alt="Vaibhav's GitHub Stats" height="180px" />
+  <img src="https://github-readme-top-langs.vercel.aggregate.connected.black/api?username=satishvaibhav&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-* 📧 **Email:** [your.email@uci.edu](mailto:your.email@uci.edu)
+
 
 <!--
 **SatishVaibhav/SatishVaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
