@@ -24,8 +24,8 @@ I am a Computer Science student at UC Irvine specializing in **Intelligent Syste
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatishVaibhav&show_icons=true&theme=tokyonight&count_private=true" alt="Vaibhav's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishVaibhav&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatishVaibhav&theme=tokyonight" alt="Vaibhav's Streak Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatishVaibhav&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
