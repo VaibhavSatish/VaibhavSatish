@@ -39,7 +39,7 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://vaibhavsatish.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=le भी&logoColor=white&labelColor=000000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
