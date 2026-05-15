@@ -1,13 +1,12 @@
 # Hi there, I'm Vaibhav! 👋
 
-I am a Computer Science student at UC Irvine specializing in **Intelligent Systems**. I sit at the intersection of robust full-stack web development and applied machine learning, constantly looking for ways to build smart, scalable applications that solve real-world problems.
+Hi There! My name is Vaibhav Satish, a Computer Science student at the University of California, Irvine, specializing in **Intelligent Systems**. I am experienced in full-stack development and finding methods to optimize and apply AI/ML. Driven by a passion for continuous learning, I have taught myself React, HTML, CSS, and Unity(C#), alongside a strong foundation in Python and its machine learning ecosystem, including Scikit-Learn, TensorFlow, and PyTorch. I thrive on the challenge of refining my craft and creating solutions to make a difference in the world. 
 
 ---
 
 ### 🚀 What I'm Up To
 * 🎓 **Education:** CS major at UCI
 * 🧠 **Focus Areas:** Optimizing Machine Learning models and building responsive full-stack applications.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
