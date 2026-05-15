@@ -32,7 +32,7 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/vaibhav-satish-796979278" target="_blank">
+  <a href="https://www.linkedin.com/in/vaibhav-satish-796979278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vaibhavsatish21@hotmail.com">
