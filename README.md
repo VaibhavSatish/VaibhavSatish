@@ -15,7 +15,7 @@ Hi There! My name is Vaibhav Satish, a Computer Science student at the Universit
 | :--- | :--- |
 | **Languages** | Python, C#, SQL, HTML/CSS, JavaScript, C++, Java|
 | **AI / Machine Learning** | PyTorch, TensorFlow, Scikit-Learn |
-| **Web & Frameworks** | React, Node.js|
+| **Web & Frameworks** | React, Node.js, FastAPI, RESTful APIs|
 | **Tools & Platforms** | Git, GitHub, Unity|
 
 ---
