@@ -5,9 +5,8 @@ I am a Computer Science student at UC Irvine specializing in **Intelligent Syste
 ---
 
 ### 🚀 What I'm Up To
-* 🎓 **Education:** Senior CS major at UCI (Zot Zot Zot! 🐜)
-* 🧠 **Focus Areas:** Optimizing deep learning models, training neural networks, and building responsive full-stack applications.
-* 🛠️ **Recent Projects:** Deep-diving into neural network performance analysis (like hyperparameter tuning for MLP Classifiers) and designing complex relational database systems.
+* 🎓 **Education:** CS major at UCI
+* 🧠 **Focus Areas:** Optimizing Machine Learning models and building responsive full-stack applications.
 
 ---
 
@@ -15,18 +14,18 @@ I am a Computer Science student at UC Irvine specializing in **Intelligent Syste
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C#, SQL, HTML/CSS, JavaScript |
+| **Languages** | Python, C#, SQL, HTML/CSS, JavaScript, C++, Java|
 | **AI / Machine Learning** | PyTorch, TensorFlow, Scikit-Learn |
-| **Web & Frameworks** | React, Node.js, Express |
-| **Tools & Platforms** | Git, GitHub, Unity, macOS |
+| **Web & Frameworks** | React, Node.js|
+| **Tools & Platforms** | Git, GitHub, Unity|
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishvaibhav&show_icons=true&theme=tokyonight&count_private=true" alt="Vaibhav's GitHub Stats" height="180px" />
-  <img src="https://github-readme-top-langs.vercel.aggregate.connected.black/api?username=satishvaibhav&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatishVaibhav&show_icons=true&theme=tokyonight&count_private=true" alt="Vaibhav's GitHub Stats" height="180px" />
+  <img src="https://github-readme-top-langs.vercel.aggregate.connected.black/api?username=SatishVaibhav&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 ---
