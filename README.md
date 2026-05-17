@@ -23,8 +23,8 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatishVaibhav&theme=monokai" alt="Vaibhav's Streak Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatishVaibhav&theme=dracula" alt="Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatishVaibhav&theme=radical" alt="Vaibhav's Streak Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatishVaibhav&theme=radical" alt="Top Languages" height="180" />
 
 ---
 
