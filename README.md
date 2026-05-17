@@ -24,7 +24,7 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatishVaibhav&theme=monokai" alt="Vaibhav's Streak Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.aggregate.app/api/top-langs/username=SatishVaibhav&layout=donut&theme=tokyonight&custom_title=Top%20Languages%20by%20Commit&colors=TypeScript,00ffcc,Python,ff00ff" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.aggregate.app/api/top-langs/?username=SatishVaibhav&layout=donut&theme=tokyonight&custom_title=Top%20Languages%20by%20Commit&colors=TypeScript,00ffcc,Python,ff00ff" alt="Top Languages" height="180" />
 </p>
 
 ---
