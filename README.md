@@ -24,7 +24,11 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatishVaibhav&theme=monokai" alt="Vaibhav's Streak Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.aggregate.app/api/top-langs/?username=SatishVaibhav&layout=donut&theme=tokyonight&custom_title=Top%20Languages%20by%20Commit&colors=TypeScript,00ffcc,Python,ff00ff" alt="Top Languages" height="180" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/C++ -00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
