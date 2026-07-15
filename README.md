@@ -5,7 +5,7 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 ---
 
 ### 🚀 What I'm Up To
-* 🎓 **Education:** CS @ UCI
+* 🎓 **Education:** Computer Science @ UCI
 * 🧠 **Focus Areas:** Optimizing Machine Learning models and building responsive full-stack applications.
 ---
 
