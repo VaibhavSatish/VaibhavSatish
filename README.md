@@ -15,7 +15,7 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 | :--- | :--- |
 | **Languages** | Python, C#, SQL, HTML/CSS, JavaScript, C++, Java|
 | **AI / Machine Learning** | PyTorch, TensorFlow, Scikit-Learn |
-| **Web & Frameworks** | React, Node.js, FastAPI, RESTful APIs|
+| **Web & Frameworks** | React, Node.js, FastAPI, RESTful APIs, OpenAPI|
 | **Tools & Platforms** | Git, GitHub, Unity|
 
 ---
