@@ -31,10 +31,10 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaibhav-satish-796979278" target="_blank">
+  <a href="https://www.linkedin.com/in/vaibhav-adithya-satish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vaibhavsatish21@hotmail.com">
+  <a href="mailto:vaibhavsatish21@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://vaibhavsatish.vercel.app/" target="_blank">
