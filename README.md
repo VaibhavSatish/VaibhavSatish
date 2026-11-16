@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vaibhav!</h1>
 
-<p align="center"><em> building, optimizing, and applying AI/ML solutions alongside full-stack development to create real-world impact. </p></em>
+<p align="center"><em> building, optimizing, and applying AI/ML solutions alongside full-stack and high level system development to create real-world impact. </p></em>
 
 ---
 ### 🛠️ Tech Stack & Tools
