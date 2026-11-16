@@ -1,13 +1,13 @@
 <h1 align="center">Hey there, I'm Vaibhav!</h1>
 
-<p align="center"><em> Building and optimizing AI/ML solutions, combining full-stack development and system architecture for real-world impact. </p></em>
+<p align="center"><em> Building and optimizing AI/ML solutions, combining Full-Stack development and System Architecture for real-world impact. </p></em>
 
 ---
 
 ### &#x1F30E; About Me
 - B.S Computer Science @ UC Irvine with Specialization in Intelligent Systems
 - ML/SWE Intern @ <b> AI Startup </b>
-- Focus: AI Systems Architecture, End-to-End ML Engineering, Full-Stack Development, System Architecture
+- Focus: AI Systems Architecture, End-to-End ML Engineering, Full-Stack Development, Full-Stack System Architecture
 
 ---
 
