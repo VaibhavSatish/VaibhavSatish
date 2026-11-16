@@ -3,7 +3,7 @@
 <p align="center"><em> building, optimizing, and applying AI/ML solutions alongside full-stack system development to create real-world impact. </p></em>
 
 ---
-### 🛠️ Tech Stack & Tools
+### &#x1F4BB; Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
