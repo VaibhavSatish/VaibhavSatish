@@ -11,6 +11,14 @@
 
 ---
 
+
+### &#127944; Side Quests
+- Analyzing the next touchdown by the Seahawks
+- Collecting achievements in Minecraft
+- Deciding what to cook next
+
+---
+
 ### &#x1F4BB; Tech Stack & Tools
 
 | Category | Technologies |
