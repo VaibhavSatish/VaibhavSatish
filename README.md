@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vaibhav!</h1>
 
-<p align="center"><em>Rising Junior pursuing a CS degree with a specialization in Intelligent Systems at UC Irvine, passionate about building, optimizing, and applying AI/ML solutions alongside full-stack development to create real-world impact. </p></em>
+<p align="center"><em> building, optimizing, and applying AI/ML solutions alongside full-stack development to create real-world impact. </p></em>
 
 ---
 ### 🛠️ Tech Stack & Tools
