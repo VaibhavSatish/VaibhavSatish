@@ -1,8 +1,16 @@
-<h1 align="center">Hi there, I'm Vaibhav!</h1>
+<h1 align="center">Hey there, I'm Vaibhav!</h1>
 
 <p align="center"><em> building, optimizing, and applying AI/ML solutions alongside full-stack system development to create real-world impact. </p></em>
 
 ---
+
+### About Me
+- B.S Computer Science @ UC Irvine with Specialization in Intelligent Systems
+- ML/SWE Intern @ AI startup
+- Focus: AI/ML optimizations, AI/ML system development, full-stack system development, 
+
+---
+
 ### &#x1F4BB; Tech Stack & Tools
 
 | Category | Technologies |
