@@ -6,7 +6,7 @@
 
 ### &#x1F30E; About Me
 - B.S Computer Science @ UC Irvine with Specialization in Intelligent Systems
-- ML/SWE Intern @ AI startup
+- ML/SWE Intern @ <b> AI Startup </b>
 - Focus: AI Systems Architecture, End-to-End ML Engineering, Full-Stack Development, System Architecture
 
 ---
