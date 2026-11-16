@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vaibhav!</h1>
 
-<p align="center"><em>Rising Junior pursuing a CS degree with a specialization in Intelligent Systems at UC Irvine, passionate about building, optimizing, and applying AI/ML solutions alongside full-stack development to create real-world impact. Driven by an eagerness to learn, I complement my abilities in Python and its machine learning ecosystem with self-taught expertise in full-stack technologies like React, FastAPI, and REST APIs. I am constantly motivated and looking for opportunities to tackle complex engineering challenges and turn innovative ideas into functional, user-centric solutions.</p></em>
+<p align="center"><em>Rising Junior pursuing a CS degree with a specialization in Intelligent Systems at UC Irvine, passionate about building, optimizing, and applying AI/ML solutions alongside full-stack development to create real-world impact. </p></em>
 
 ---
 ### 🛠️ Tech Stack & Tools
